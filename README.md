@@ -1,5 +1,5 @@
 # minishell2
-EPITECH} | First year | Shell programming project
+{EPITECH} | First year | Shell programming project
 
 The goal of the project is to enrich your minishell1 project by adding semicolons (‘;’), pipes (‘|’), and the four
 redirections (‘>’, ‘<’, ‘>>’, ‘<<’) management.
